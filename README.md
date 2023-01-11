@@ -12,7 +12,7 @@ I'm Kim Andrew, a Frontend Developer from Uzbekinstan who is passionate about te
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://icons8.com/icon/uJM6fQYqDaZK/typescript"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"></code>
 
 ###  📫 How to reach me:
 
