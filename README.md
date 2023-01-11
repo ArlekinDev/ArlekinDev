@@ -6,13 +6,8 @@ I'm Shanu Mishra,an App Developer :iphone: from India who is passionate about te
 
 ### ⚡ Technologies
 Talk to me about
-- Mobile application development using **Flutter**
-- Web development-**HTML/CSS,Javascript**
-- Backend development-**Firebase,SQL**
-- Data Analytics -**Python,R**
-- Blockchain- **Solidity**
-- Digital Marketing
-- Robotic Process Automation-Blue Prism,Automation Anywhere
+- Basic stacks: HTML, CSS, JS**
+- Actual stacks: React.js, Typescript, Tailwind.css, Next.js**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
