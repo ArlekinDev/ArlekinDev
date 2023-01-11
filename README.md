@@ -16,5 +16,5 @@ I'm Kim Andrew, a Frontend Developer from Uzbekinstan who is passionate about te
 
 ###  📫 How to reach me:
 
-[![Telegram Badge](https://img.shields.io/badge/-@ShanuMishra1515-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShanuMishra1515)](https://t.me/arledev) 
+[![Telegram Badge](https://img.shields.io/badge/-@arledev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShanuMishra1515)](https://t.me/arledev) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arlekinndev@gmail.com)](mailto:arlekinndev@gmail.com)
